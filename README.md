@@ -25,7 +25,7 @@ Este projeto realiza a análise de dados de conversas do WhatsApp utilizando Str
 ### Usando Docker
 
 1. **Clone o repositório**:
-   git clone https://github.com/CelebroPensante/trabalho_jogo_do_bicho<br>
+   `git clone https://github.com/CelebroPensante/trabalho_jogo_do_bicho`<br>
    `cd trabalho_jogo_do_bicho `
 3. Construa a imagem e inicie o container:<br>
    `docker-compose up --build`
