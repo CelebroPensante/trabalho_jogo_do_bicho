@@ -27,24 +27,24 @@ Este projeto realiza a análise de dados de conversas do WhatsApp utilizando Str
 1. **Clone o repositório**:
    git clone https://github.com/CelebroPensante/trabalho_jogo_do_bicho<br>
    `cd trabalho_jogo_do_bicho `
-3. Construa a imagem e inicie o container:
-   docker-compose up --build
-4. Acesse a aplicação: 
-   Abra o navegador e acesse http://localhost:8501.
+3. Construa a imagem e inicie o container:<br>
+   `docker-compose up --build`
+4. Acesse a aplicação:<br>
+   `Abra o navegador e acesse http://localhost:8501.`
 
 ### Manualmente na Máquina
-1. **Clone o repositório**:
-   git clone https://github.com/CelebroPensante/trabalhojogo_do_bicho
-   cd trabalho_jogo_do_bicho
-2.Crie um ambiente virtual e ative-o:
-  python -m venv venv
-  venv\Scripts\activate
-3. Instale as dependências:
-  pip install streamlit pandas plotly
-4. Execute a aplicação:
-  streamlit run streamlit_data_show.py
-5. Acesse a aplicação:
-   Abra o navegador e acesse http://localhost:8501.
+1. **Clone o repositório**:<br>
+   `git clone https://github.com/CelebroPensante/trabalhojogo_do_bicho`<br>
+   `cd trabalho_jogo_do_bicho`
+2.Crie um ambiente virtual e ative-o:<br>
+  `python -m venv venv`<br>
+  `venv\Scripts\activate`
+3. Instale as dependências:<br>
+  `pip install streamlit pandas plotly<br>`
+4. Execute a aplicação:<br>
+  `streamlit run streamlit_data_show.py`
+5. Acesse a aplicação:<br>
+   `Abra o navegador e acesse http://localhost:8501.`
 
 ## Estrutura dos Arquivos
 - 'Dockerfile: Define a imagem Docker para a aplicação.
