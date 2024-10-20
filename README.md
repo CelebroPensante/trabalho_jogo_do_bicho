@@ -46,12 +46,12 @@ Este projeto realiza a análise de dados de conversas do WhatsApp utilizando Str
 5. Acesse a aplicação:
    Abra o navegador e acesse http://localhost:8501.
 
-##Estrutura dos Arquivos
+## Estrutura dos Arquivos
 - 'Dockerfile: Define a imagem Docker para a aplicação.
 - docker-compose.yml: Configura o serviço Docker para a aplicação.
 - streamlit_data_show.py: Script principal que executa a aplicação Streamlit.
 - data/get_data.py: Script que processa os dados do arquivo _chat.txt.
 
-##Desenvolvedores:
+## Desenvolvedores:
 - Vitor G. J. de Carvalho
 - Lucas Tiepo
