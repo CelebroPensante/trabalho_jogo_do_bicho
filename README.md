@@ -52,6 +52,13 @@ Este projeto realiza a análise de dados de conversas do WhatsApp utilizando Str
 - streamlit_data_show.py: Script principal que executa a aplicação Streamlit.
 - data/get_data.py: Script que processa os dados do arquivo _chat.txt.
 
+# Extra
+
+Além do trabalho solicitado também há um arquivo extra q realiza a análise automatica para qualquer arquivo de dados do whatsapp
+
+Para rodar ela é similar ao arquivo anterior.
+![image](https://github.com/user-attachments/assets/e7dbc695-c257-4c8f-9f77-d935a4e6c061)
+
 ## Desenvolvedores:
 - Vitor G. J. de Carvalho
 - Lucas Tiepo
