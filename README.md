@@ -3,16 +3,16 @@
 Este projeto realiza a análise de dados de conversas do WhatsApp utilizando Streamlit, pandas e plotly.
 
 ## Estrutura do Projeto
-/trabalho 4
-  └── app
-    ├── Dockerfile 
-    ├── docker-compose.yml 
-    ├── streamlit_data_show.py
-    └── data
-      ├── get_data.py 
-      └── _chat.txt
-  └── extras
-    └── automatic_wpp_analysis.py
+/trabalho 4<br>
+  └── app<br>
+    ├── Dockerfile <br>
+    ├── docker-compose.yml <br>
+    ├── streamlit_data_show.py<br>
+    └── data<br>
+      ├── get_data.py <br>
+      └── _chat.txt<br>
+  └── extras<br>
+    └── automatic_wpp_analysis.py<br>
 
 
 ## Pré-requisitos
@@ -25,7 +25,7 @@ Este projeto realiza a análise de dados de conversas do WhatsApp utilizando Str
 ### Usando Docker
 
 1. **Clone o repositório**:
-   git clone https://github.com/CelebroPensante/trabalho_jogo_do_bicho
+   git clone https://github.com/CelebroPensante/trabalho_jogo_do_bicho<br>
    `cd trabalho_jogo_do_bicho `
 3. Construa a imagem e inicie o container:
    docker-compose up --build
