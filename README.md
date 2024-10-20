@@ -35,7 +35,7 @@ Este projeto realiza a análise de dados de conversas do WhatsApp utilizando Str
 ### Manualmente na Máquina
 1. **Clone o repositório**:<br>
    `git clone https://github.com/CelebroPensante/trabalhojogo_do_bicho`<br>
-   `cd trabalho_jogo_do_bicho`
+   `cd trabalho_jogo_do_bicho`<br>
 2.Crie um ambiente virtual e ative-o:<br>
   `python -m venv venv`<br>
   `venv\Scripts\activate`
