@@ -40,7 +40,7 @@ Este projeto realiza a análise de dados de conversas do WhatsApp utilizando Str
   `python -m venv venv`<br>
   `venv\Scripts\activate`
 3. Instale as dependências:<br>
-  `pip install streamlit pandas plotly<br>`
+  `pip install streamlit pandas plotly`
 4. Execute a aplicação:<br>
   `streamlit run streamlit_data_show.py`
 5. Acesse a aplicação:<br>
